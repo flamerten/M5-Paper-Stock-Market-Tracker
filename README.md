@@ -1,6 +1,8 @@
 # M5 Paper Stock Market Tracker
 Based on https://github.com/m5stack/M5Paper_FactoryTest/tree/main
 
+Developed from https://github.com/flamerten/Eink_StockMarket_Proto
+
 
 To recreate this, create a `src/secrets.h` file with the following paramters.
 
